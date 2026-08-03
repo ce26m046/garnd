@@ -1,4 +1,4 @@
-# Programming Assignment 0: Setting the System Up
+# Pallerla Anushka
 
 *Based on TU Delft's [MUDE](http://mude.citg.tudelft.nl/)*
 
@@ -10,19 +10,19 @@ This repository contains the source file for the assignment and will be used as 
 
 > Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
 
-## Learning outcomes 
+## 1. a. Remote:
+        It is the repository where we can pull the documents and make the required changes. It is stored in GitHub website and can be accessed by others.
+## 1. b. Local:
+         It is a repository where changes can be done in our computer and pushed to remote so that the changes can be seen by others and the exact time the changes are done.
+## 2. Forking:
+       Making a copy of a repository(someone else's) and storing it in our GitHub account.
+## 3. Cloning:
+       Making a copy of a repository(someone else's) and storing it on computer as a local file.
 
-You should be able to write simple Python programs on your computer, test them, and then sync them with the GitHub remote. The goal of this assignment is to equip you with the required programming tools that will be used throughout the semester for **CV 5101 (MUDE)**. We’ll also provide you with materials for further learning and a few ideas to get you started. 
+## 4. Push-Pull:
+      Push uploads repository to remote where changes are made so that anyone can have access to it whereas Pull allows us to download and edit a repository and can be stored on computer.
+## 5. Commit:
+      When we press commit it is like saving what are the changes, who made the changes and at what time everything is kept track of in our GitHub account.
 
-The following are different objectives of Assignment-0:
-
-## 1. Show hidden files on your computer.
-## 2. Install _miniconda_ software package.
-## 3. Install _Visual Studio Code_.
-## 4. Setup MUDE environment.
-## 5. Execute a _Python_ code in your environment.
-## 6. Set up _GitHub_, _GitHub Desktop_, and try basic git operations.
-## 7. Common instructions for all assignments.
-## 8. Instructions for Assignment-0.
 
 
